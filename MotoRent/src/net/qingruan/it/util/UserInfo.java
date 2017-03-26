@@ -7,6 +7,9 @@ public class UserInfo {
 	public void printInfo(){
 		System.out.println("0000000");
 	}
+	public void liSiXiuGai(){
+		System.out.println("yyyyyyyyyyyyyyyyyyyyyyyyyyyy");
+	}
 	public void xiugai(){
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 	}
